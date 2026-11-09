@@ -58,7 +58,7 @@ I avoided `EXISTS` in SQL for an embarrassingly long time. Then billion-row tabl
 
 <div align="center">
 
-### 💭 *"A temporary fix might be the most permanent solution."*
+### 💭 *"A temporary fix is the most permanent solution"*
 
 </div>
 
