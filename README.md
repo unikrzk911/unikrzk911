@@ -20,7 +20,7 @@ class UniqueRajak:
     based_in   = "Kathmandu, Nepal 🇳🇵"
     domain     = ["US healthcare claims", "Clinical trials", "CDISC SDTM/ADaM"]
     daily_tool = ["SQL", "Python"]
-    learning   = "Machine learning (Coventry University via Softwarica)"
+    learning   = "Data Science (Coventry University via Softwarica)"
 
     def work(self):
         return "messy data in, audit-ready pipelines out"
