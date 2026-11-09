@@ -39,8 +39,6 @@ class UniqueRajak:
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
 </p>
 
-<p align="center"><b>Also:</b> SQL · SAS · Atlassian · CDISC SDTM/ADaM</p>
-
 ### 🔭 Currently working on
 
 - 🏔️ **Classifying Earthquake-Triggered Landslide Susceptibility**
